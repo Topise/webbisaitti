@@ -1,1 +1,3 @@
 # webbisaitti
+
+Haroitus microsoftin tekniikoille.
